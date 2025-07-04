@@ -19,7 +19,6 @@ This project is a web-based Cyberbullying Detection System built with Flask and 
 - Educational Platforms: For creating a safe online space for students.
 - Comment Moderation Systems: Automatically flag bullying comments in forums, reviews, or live chats.
 
-![Screenshot](static/img.png)
-![Screenshot](static/img2.png)
-
+![Home Screenshot](static/img.png)
+![Result Screenshot](static/img2.png)
 
